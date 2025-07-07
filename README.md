@@ -13,7 +13,6 @@ I'm an Electrical and Computer Engineering undergraduate at Alexandria Universit
 
 
 ## 📞 Contact Details
-- E-mail: khalidomr1@outlook.com
 - GitHub: [Khalid Omar](https://github.com/khalidy01)
 
 **⭐️ Explore my repositories to discover the depth of my work and expertise!**
